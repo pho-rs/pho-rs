@@ -1,20 +1,17 @@
-### Hi there 👋
+# Содержание
 
-<!--
-**pho-rs/pho-rs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+# Contents 1
+<table>
+	<thead>
+		<tr>
+			<td><strong>Сборная России по физике</strong></td>
+			<td><strong>Russia Physics Team</strong></td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Добро пожаловать на гитхаб сборной России по физике!<br />Здесь хранятся материалы, данные и исходный код некоторых проектов, которые были реализованы для подготовки или отбора кандидатов в сборную Россию по физике.</td>
+			<td>Welcome to the github of the Russia Physics Team!<br />Here we have documents, data and source code for several projects that have been implemented for the preparation or selection rounds of the candidates of the Russia Physics Team. English version of the [contents](#contents-1).</td>
+		</tr>
+	</tbody>
+</table>
