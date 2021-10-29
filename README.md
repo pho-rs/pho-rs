@@ -14,7 +14,22 @@
 </table>
 
 # Содержание
-### Псеводэксперименты
-[Y21-PE2.Модель Изинга](Y21-PE2.-Ising-Model)
+### Псевдоэксперименты
+<table>
+	<thead>
+		<tr>
+			<td><strong>Название</strong></td>
+			<td><strong>Условие</strong></td>
+			<td><strong>Репозиторий</strong></td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Y21-PE2. Моделирование фазового перехода (Модель Изинга)</td>
+			<td align="center"><a href="https://pho.rs/p/243">:book:</a></td>
+			<td align="center"><a href="https://github.com/pho-rs/Y21-PE2.-Ising-Model">:desktop_computer:</a></td>
+		</tr>
+	</tbody>
+</table>
 
 <h1 id="contents_en">Contents</h1>
