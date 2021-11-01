@@ -2,7 +2,7 @@
 	<thead>
 		<tr>
 			<td><strong>Сборная России по физике</strong></td>
-			<td><strong>:ru: Russia Physics Team</strong></td>
+			<td><strong>Russia Physics Team</strong></td>
 		</tr>
 	</thead>
 	<tbody>
@@ -24,6 +24,17 @@
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td colspan="3"><strong>Европейская олимпиада</strong></td>
+		</tr>
+		<tr>
+			<td>E20-PE1. Невидимый заряд</td>
+			<td align="center"><a href="https://pho.rs/p/243">:book:</a></td>
+			<td align="center"><a href="https://github.com/pho-rs/Y21-PE2.-Ising-Model">:desktop_computer:</a></td>
+		</tr>
+		<tr>
+			<td colspan="3"><strong>Квалификационные сборы</strong></td>
+		</tr>
 		<tr>
 			<td>Y21-PE2. Моделирование фазового перехода (Модель Изинга)</td>
 			<td align="center"><a href="https://pho.rs/p/243">:book:</a></td>
