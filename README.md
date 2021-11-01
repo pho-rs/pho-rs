@@ -29,7 +29,7 @@
 		</tr>
 		<tr>
 			<td>E20-PE1. Невидимый заряд</td>
-			<td align="center"><a href="https://pho.rs/p/243">:book:</a></td>
+			<td align="center"><a href="https://pho.rs/p/1309">:book:</a></td>
 			<td align="center"><a href="https://github.com/pho-rs/E20-PE1.-Hidden-charge">:desktop_computer:</a></td>
 		</tr>
 		<tr>
