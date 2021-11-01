@@ -30,7 +30,7 @@
 		<tr>
 			<td>E20-PE1. Невидимый заряд</td>
 			<td align="center"><a href="https://pho.rs/p/243">:book:</a></td>
-			<td align="center"><a href="https://github.com/pho-rs/Y21-PE2.-Ising-Model">:desktop_computer:</a></td>
+			<td align="center"><a href="https://github.com/pho-rs/E20-PE1.-Hidden-charge">:desktop_computer:</a></td>
 		</tr>
 		<tr>
 			<td colspan="3"><strong>Квалификационные сборы</strong></td>
