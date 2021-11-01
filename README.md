@@ -2,7 +2,7 @@
 	<thead>
 		<tr>
 			<td><strong>Сборная России по физике</strong></td>
-			<td><strong>Russia Physics Team</strong></td>
+			<td><strong>:ru: Russia Physics Team</strong></td>
 		</tr>
 	</thead>
 	<tbody>
