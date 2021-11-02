@@ -38,6 +38,16 @@
 			<td align="center"><a href="https://github.com/pho-rs/E20-PE2.-Mechanical-black-box">:desktop_computer:</a></td>
 		</tr>
 		<tr>
+			<td>E21-PE1. Найти провод</td>
+			<td align="center"><a href="https://pho.rs/p/1319">:book:</a></td>
+			<td align="center"><a href="https://github.com/pho-rs/E21-PE1.-Hidden-wire">:desktop_computer:</a></td>
+		</tr>
+		<tr>
+			<td>E21-PE2. Греем стержень</td>
+			<td align="center"><a href="https://pho.rs/p/1321">:book:</a></td>
+			<td align="center"><a href="https://github.com/pho-rs/E21-PE2.-Hot-cylinder">:desktop_computer:</a></td>
+		</tr>
+		<tr>
 			<td colspan="3"><strong>Квалификационные сборы</strong></td>
 		</tr>
 		<tr>
