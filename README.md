@@ -25,6 +25,18 @@
 	</thead>
 	<tbody>
 		<tr>
+			<td colspan="3"><strong>Азиатская олимпиада</strong></td>
+		</tr>
+		<tr>
+			<td>A21-PE1. Упругость кантилевера</td>
+			<td align="center"><a href="https://pho.rs/p/294">:book:</a></td>
+			<td align="center" rowspan="2"><a href="https://github.com/pho-rs/A21-PE1-PE2.-Elasticity-of-cantilever.-Spatial-structure">:desktop_computer:</a></td>
+		</tr>
+		<tr>
+			<td>A21-PE2. Оптическое исследование пространственной структуры</td>
+			<td align="center"><a href="https://pho.rs/p/295">:book:</a></td>
+		</tr>
+		<tr>
 			<td colspan="3"><strong>Европейская олимпиада</strong></td>
 		</tr>
 		<tr>
