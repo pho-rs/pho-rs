@@ -34,7 +34,7 @@
 		</tr>
 		<tr>
 			<td>E20-PE2. Механический черный ящик</td>
-			<td align="center"><a href="https://pho.rs/p/1309">:book:</a></td>
+			<td align="center"><a href="https://pho.rs/p/1314">:book:</a></td>
 			<td align="center"><a href="https://github.com/pho-rs/E20-PE2.-Mechanical-black-box">:desktop_computer:</a></td>
 		</tr>
 		<tr>
