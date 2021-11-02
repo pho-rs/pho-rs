@@ -72,6 +72,11 @@
 			<td align="center"><a href="https://pho.rs/p/244">:book:</a></td>
 			<td align="center"><a href="https://github.com/pho-rs/Y21-PE3.-Black-box-in-thermodynamics">:desktop_computer:</a></td>
 		</tr>
+		<tr>
+			<td>3T21-PE1. Оптический серый ящик</td>
+			<td align="center"><a href="https://pho.rs/p/1329">:book:</a></td>
+			<td align="center"><a href="https://github.com/pho-rs/3T21-PE1.-Optical-black-box">:desktop_computer:</a></td>
+		</tr>
 	</tbody>
 </table>
 
