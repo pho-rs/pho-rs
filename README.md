@@ -45,6 +45,11 @@
 			<td align="center"><a href="https://pho.rs/p/243">:book:</a></td>
 			<td align="center"><a href="https://github.com/pho-rs/Y21-PE2.-Ising-Model">:desktop_computer:</a></td>
 		</tr>
+		<tr>
+			<td>Y21-PE3. Термодинамический черный ящик</td>
+			<td align="center"><a href="https://pho.rs/p/244">:book:</a></td>
+			<td align="center"><a href="https://github.com/pho-rs/Y21-PE3.-Black-box-in-thermodynamics">:desktop_computer:</a></td>
+		</tr>
 	</tbody>
 </table>
 
