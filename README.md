@@ -37,6 +37,16 @@
 			<td align="center"><a href="https://pho.rs/p/295">:book:</a></td>
 		</tr>
 		<tr>
+			<td>A22-PE1. Магнитный чёрный ящик</td>
+			<td align="center"><a href="https://pho.rs/p/3096">:book:</a></td>
+			<td align="center"><a href="https://github.com/pho-rs/A22-E1.-Magnetic-black-box">:desktop_computer:</a></td>
+		</tr>
+		<tr>
+			<td>A22-PE2. Акустический чёрный ящик</td>
+			<td align="center"><a href="https://pho.rs/p/3095">:book:</a></td>
+			<td align="center"><a href="https://github.com/pho-rs/A22-E2.-Acoustic-black-box">:desktop_computer:</a></td>
+		</tr>
+		<tr>
 			<td colspan="3"><strong>Европейская олимпиада</strong></td>
 		</tr>
 		<tr>
